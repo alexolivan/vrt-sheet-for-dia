@@ -1,0 +1,2 @@
+Changed folder structure since it was awkward to install on Linux.
+Right now it is just drop things into existing dia installation folders and you're all done.
